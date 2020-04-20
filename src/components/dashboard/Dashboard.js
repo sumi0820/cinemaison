@@ -10,12 +10,10 @@ const dashboard = {
     margin: '35px'
 }
 
-
-
 class Dashboard extends Component {
+
     render() {
-        const { reviews,notifications } = this.props;
-        // if(!auth.uid) return <Redirect to='/about' />
+        const { auth, reviews,notifications } = this.props;
         return (
             <div>
                 <div className="d-flex justify-content-around">

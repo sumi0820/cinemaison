@@ -33,7 +33,7 @@ class App extends Component {
           <div className="App" style={app}>
             <Nav />
             <Switch>
-              <Route exact path='/' component={Dashboard} />
+              <Route exact path='/cinemaison' component={Dashboard} />
               <Route path='/about' component={About} />
               <Route path='/review/:id' component={ReviewDetail} />
               <Route path='/signin' component={SignIn} />
