@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cinemaison/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/cinemaison/static/js/main.e132007f.chunk.js",
+    "main.js.map": "/cinemaison/static/js/main.e132007f.chunk.js.map",
+    "runtime-main.js": "/cinemaison/static/js/runtime-main.748f2dee.js",
+    "runtime-main.js.map": "/cinemaison/static/js/runtime-main.748f2dee.js.map",
+    "static/js/2.d9733483.chunk.js": "/cinemaison/static/js/2.d9733483.chunk.js",
+    "static/js/2.d9733483.chunk.js.map": "/cinemaison/static/js/2.d9733483.chunk.js.map",
+    "index.html": "/cinemaison/index.html",
+    "precache-manifest.bca197e314c090246b34f01ea2615bca.js": "/cinemaison/precache-manifest.bca197e314c090246b34f01ea2615bca.js",
+    "service-worker.js": "/cinemaison/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/cinemaison/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d9733483.chunk.js.LICENSE.txt": "/cinemaison/static/js/2.d9733483.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.748f2dee.js",
+    "static/js/2.d9733483.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e132007f.chunk.js"
+  ]
+}
